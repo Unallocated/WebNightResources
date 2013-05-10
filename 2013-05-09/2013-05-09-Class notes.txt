@@ -1,0 +1,21 @@
+ - Xampp
+	- MySQL
+	- PHP 5.3 <
+	- Apache 2.2 <
+	- phpMyAdmin
+ - Git Bash (MingW32)
+ - Drush for Windows
+ - Drupal
+ 
+ - Set up Apache VirtualHost
+	- C:\xampp\apache\conf\extra\httpd-vhosts.conf
+ - Add entry to hosts file
+	- C:\Windows\System32\drivers\etc
+	- /etc/hosts
+ - Set up database
+ 
+ -----------
+ - drush make <make file> <directory name>
+ - drush dis overlay toolbar
+ - drush en admin_menu admin_menu_toolbar module_filter
+ 
