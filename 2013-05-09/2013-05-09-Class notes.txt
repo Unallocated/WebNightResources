@@ -16,6 +16,6 @@
  
  -----------
  - drush make <make file> <directory name>
- - drush dis overlay toolbar
  - drush en admin_menu admin_menu_toolbar module_filter
+ - drush dis overlay toolbar
  
